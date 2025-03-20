@@ -17,19 +17,6 @@ To install the necessary dependencies, run:
 pip install -r requirements.txt
 npm install
 ```
-
-## Usage
-
-To use Green-GPT, follow these steps:
-
-1. Step 1: Describe the initial step.
-2. Step 2: Describe the next step.
-3. Step 3: Provide an example of running the project.
-
-```bash
-python main.py
-```
-
 ## Contributing
 
 We welcome contributions! Please follow these steps to contribute:
