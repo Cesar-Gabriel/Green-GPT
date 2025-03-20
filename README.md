@@ -1,13 +1,13 @@
 ```markdown
 # Green-GPT
 
-Green-GPT is an AI project designed to ... (provide a brief introduction).
+Green-GPT is an AI project designed to ... bring info, surpricing.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Feature 1 info
+- Feature 2 informacion
+- Feature 3 info
 
 ## Installation
 
